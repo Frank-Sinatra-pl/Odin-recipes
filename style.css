@@ -1,0 +1,21 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center; 
+}
+
+h1 {
+    color: black; background-color: orange;
+    }
+
+.menu {
+    background-color: rgba(0, 0, 0, 0.315); color: rgba(197, 3, 197, 0.63);
+    font-size: 24px; display: block; margin: auto;
+}
+
+h2 {
+    color: black; background-color: orange;
+}
+
+div {
+    background-color: rgba(0, 0, 0, 0.315);
+}
