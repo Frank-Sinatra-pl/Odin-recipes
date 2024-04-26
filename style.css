@@ -12,7 +12,7 @@ h1 {
     font-size: 24px; display: block; margin: auto;
 }
 
-h2 {
+h2,h3 {
     color: black; background-color: orange;
 }
 
